@@ -1,0 +1,8 @@
+go 1.20
+
+use (
+	./cron-V2
+	./go-cron
+	./cron-example2
+	./gin-cron-request
+)
